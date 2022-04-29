@@ -1,0 +1,7 @@
+Namespaces: 
+-->Namespaces are used in c# to organize and provide a level of seperation of code.
+-->namespace is considered as a container which consists of namespaces, classes, interface, deligates and structures.
+-->Example: In a real life scenario we have a large number of files and folders in our computer. 
+Imagine how difficult it would be to manage them if they are placed in a single directory.
+-->The concept of the namespace is similar in c# to organize different members by keeping related members in the same namespace.
+ We can solve the problem of naming conflict.
